@@ -1,7 +1,13 @@
 # GLPI Brandkit Plugin (Fork para GLPI 12)
 
-[![GLPI Version](https://img.shields.io/badge/GLPI-v12-blue.svg)](https://glpi-project.org/)
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](LICENSE)
+<p align="center">
+  <img src="Plugin.png" alt="Brandkit Logo" width="140">
+</p>
+
+<p align="center">
+  <a href="https://glpi-project.org/"><img src="https://img.shields.io/badge/GLPI-v12-blue.svg" alt="GLPI Version"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg" alt="License: AGPL v3"></a>
+</p>
 
 Este repositório é um **fork** do plugin **Brandkit** para GLPI, atualizado e adaptado para adequação e compatibilidade plena com o **GLPI 12**.
 
@@ -15,6 +21,30 @@ O plugin Brandkit permite personalizar a identidade visual do GLPI (logotipos da
 - **Compatibilidade com GLPI 12**: Adequação das checagens de versão e pré-requisitos (`setup.php`).
 - **Ajustes de Hooks e Interface**: Adaptação no carregamento de estilos, scripts e menus para o GLPI 12.
 - **Correções de compatibilidade PHP/GLPI**: Garantia de funcionamento estável nas versões modernas de PHP e GLPI.
+
+---
+
+## Recursos Visuais e Demonstração
+
+### Identidade Visual e Temas
+Suporte a logotipos personalizados adaptáveis tanto para a interface clara quanto para o modo escuro:
+
+<p align="center">
+  <img src="pics/brandkit.png" width="180" alt="Logo Brandkit Claro">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="pics/brandkit-dark.png" width="180" alt="Logo Brandkit Escuro">
+</p>
+
+### Papéis de Parede para a Tela de Login
+O plugin inclui opções de papéis de parede profissionais em alta definição para customizar a página de login:
+
+| Servidores e Infraestrutura | Produtividade e TI |
+| :---: | :---: |
+| <img src="pics/wallpapers/storage-server-racks.png" width="380" alt="Data Center"> | <img src="pics/wallpapers/man-working-his-laptop.png" width="380" alt="Produtividade"> |
+
+| Visão de Escritório Corporativo | Suporte ao Usuário |
+| :---: | :---: |
+| <img src="pics/wallpapers/top-view-of-office.png" width="380" alt="Escritório"> | <img src="pics/wallpapers/professional-woman-providing-support.png" width="380" alt="Suporte ao Usuário"> |
 
 ---
 
